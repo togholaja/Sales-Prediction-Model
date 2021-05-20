@@ -1,6 +1,6 @@
 #########################################################
 #
-# Co-op Weather Impact on Sales
+# Weather Impact on Sales
 #
 # Weather data for stores
 #
@@ -28,8 +28,7 @@ dbHandle <- odbcConnect(dsn = "Alpha_dsn")
 # Load overall stores vector
 overallANA_Codes <- paste0(readRDS("./DataFolder/salesData_perSupergroup/storesVec.RDS"))
 
-startDateToDownloadWeather <- startDateToDownload #'01/01/2018' #format(dmy(endDateToDownload)-years(yearsBeforeEndDateToDownload), format="%d/%m/%Y")
-
+startDateToDownloadWeather <- startDateToDownload 
 # A. Fetch weather data for selected stores
 a1 <- list()
 init <- 1 ; fin <- 500
