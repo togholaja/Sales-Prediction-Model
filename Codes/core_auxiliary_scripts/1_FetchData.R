@@ -1,6 +1,6 @@
 #########################################################
 #
-# Co-op Weather Impact on Sales
+# Weather Impact on Sales
 #
 # Data extraction of store x (product) x date sales
 #
