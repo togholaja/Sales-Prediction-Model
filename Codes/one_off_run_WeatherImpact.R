@@ -1,6 +1,6 @@
 #########################################################
 #
-# Co-op Weather Impact
+# Weather Impact
 #
 # Main running script
 #
@@ -10,7 +10,7 @@
 library(data.table)
 
 # Set working directory
-wd <- "F:/IRI/Coop_Weather/Final_Deliverable/BS1_ProductGroupsTurnover -TO Copy" # "C:/IRI/Coop_Weather/Deliverable/BS1_ProductGroupsTurnover"
+wd <- "Weather/Final_Deliverable/BS1_ProductGroupsTurnover" 
 setwd(wd)
 
 #-------------------------------------------------------
