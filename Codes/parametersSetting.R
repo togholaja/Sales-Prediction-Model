@@ -1,6 +1,6 @@
 #########################################################
 #
-# Co-op Weather Impact on Sales
+# Weather Impact on Sales
 #
 # Parameters setting
 
@@ -30,7 +30,7 @@ library(lubridate)
 
 #
 #########################################################
-wd <- "O:/weather2/weather/Final_Deliverable/BS1_ProductGroupsTurnover"  # "C:/IRI/Coop_Weather/Deliverable/BS1_ProductGroupsTurnover"
+wd <- "O:/weather2/weather/Final_Deliverable/BS1_ProductGroupsTurnover" 
 setwd(wd)
 getwd()
 
