@@ -1,7 +1,7 @@
 #'---
-#'title: "Co-op: Weather Impact on Sales"
+#'title: "Weather Impact on Sales"
 #'subtitle: "Investigate Association between Total Category Turnover and Weather Variables: Multivariate Analysis"
-#'author: ACE, IRI
+#'author: Tosan Ogholaja
 #'date: '`r format(Sys.Date(),"%B %d,%Y")`'
 #'output:
 #'  html_document:
